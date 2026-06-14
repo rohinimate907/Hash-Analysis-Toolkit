@@ -1,5 +1,0 @@
-with open(
-    "saved_report.txt",
-    "a",
-    encoding="utf-8"
-) as file:
