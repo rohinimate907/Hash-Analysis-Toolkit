@@ -87,7 +87,8 @@ python gui.py
 
 ## 🖼️ GUI Preview
 
-![GUI Preview](screenshots/gui.png)
+![GUI Preview](screenshots/gui.png)![Uploading image.png…]()
+
 
 Then use:
 
