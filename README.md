@@ -87,7 +87,8 @@ python gui.py
 
 ## 🖼️ GUI Preview
 
-![GUI Preview](screenshots/gui.png)![Uploading image.png…]()
+<img width="1025" height="888" alt="image" src="https://github.com/user-attachments/assets/abe9579e-77ae-4b07-8a50-7e73d99f7787" />
+
 
 
 Then use:
